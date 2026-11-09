@@ -13,8 +13,8 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- ⚙️ CẤU HÌNH URL (sửa tại đây nếu có 2 file riêng)
 local CONFIG = {
-    MobileURL = "https://raw.githubusercontent.com/duongvantrong18102012-cmd/SUPER-LUCK-DESTROYER/refs/heads/main/main.lua", -- đổi thành mobile.lua nếu có
-    PCURL     = "https://raw.githubusercontent.com/duongvantrong18102012-cmd/SUPER-LUCK-DESTROYER/refs/heads/main/main.lua",
+    MobileURL = "https://raw.githubusercontent.com/duongvantrong18102012-cmd/SUPER-LUCK-DESTROYER/refs/heads/main/mobile.lua", -- đổi thành mobile.lua nếu có
+    PCURL     = "https://raw.githubusercontent.com/duongvantrong18102012-cmd/SUPER-LUCK-DESTROYER/refs/heads/main/pc.lua",
 }
 
 -- 📱 Nhận diện nền tảng
